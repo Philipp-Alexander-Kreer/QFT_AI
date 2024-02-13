@@ -108,3 +108,5 @@ def generate_data(input_size, hidden_size, output_size, n_net, n_exp, ReLU=True)
     t.save(exp_data, file_path)
 
     return 0
+
+
